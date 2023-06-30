@@ -18,14 +18,16 @@ We need to ensure that the data is cleaned before the analysis to provide a high
 - Removed unnecessary columns that are not needed in analysis
 - Combined the datasets using VLOOKUP formula
 
-# Tasks:
+# Tasks
 Task 1: Project Understanding
 In this task, the client company is introduced and talked about their business problem, project requirements, and introduced the team that we're going to work with. We are tested on our knowledge of the project task.
 
 Task 2: Data Cleaning & Modeling
 In this step, we are focused on gathering the requirements needed for the analysis, cleaning those data, and doing proper modeling of the data. The client wanted to figure out which of the content categories has the highest aggregated popularity. We are also tested on information about the data.
 
-Task 3: Data Visualization & Storytelling and Task 4: Present to the Client
-We are tasked with bringing the data to life in this part of the project. We summarized what we did in the project from start to finish to put in a presentation to show our client. Tableau is what I used to make charts and visualizations that can provide insights and recommendations for the client to act upon. Here are the insights we discovered during the exploratory phase of the analysis:
+Task 3: Data Visualization & Storytelling 
+
+Task 4: Present to the Client
+We are tasked with bringing the data to life in this part of the project. We summarized what we did in the project from start to finish to put in a presentation to show our client.
 
 
